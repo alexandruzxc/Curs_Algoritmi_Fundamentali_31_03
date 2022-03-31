@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PbInfo_ConsoleApp_1749", "PbInfo_ConsoleApp_1749\PbInfo_ConsoleApp_1749.csproj", "{1C134D33-6122-47FD-A368-0AE47679BD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConturulMatriciei", "ConturulMatriciei\ConturulMatriciei.csproj", "{1A644F03-3669-48F1-BCBD-C3324D01CCE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritm_Algebra_Matrice", "Algoritm_Algebra_Matrice\Algoritm_Algebra_Matrice.csproj", "{A8E1C641-BC9A-44AF-9777-A8ED519DFAD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C134D33-6122-47FD-A368-0AE47679BD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C134D33-6122-47FD-A368-0AE47679BD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C134D33-6122-47FD-A368-0AE47679BD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C134D33-6122-47FD-A368-0AE47679BD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A644F03-3669-48F1-BCBD-C3324D01CCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A644F03-3669-48F1-BCBD-C3324D01CCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A644F03-3669-48F1-BCBD-C3324D01CCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A644F03-3669-48F1-BCBD-C3324D01CCE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E1C641-BC9A-44AF-9777-A8ED519DFAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E1C641-BC9A-44AF-9777-A8ED519DFAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E1C641-BC9A-44AF-9777-A8ED519DFAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E1C641-BC9A-44AF-9777-A8ED519DFAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {047418A0-C6EE-41B8-B40C-7050684CC27A}
+	EndGlobalSection
+EndGlobal
